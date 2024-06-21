@@ -4,4 +4,4 @@ The main objective of this project is to create a web application using Google E
 ![Milan, AOI of the project [LCZ-ODC]([https://github.com](https://github.com/gisgeolab/LCZ-ODC/tree/main)) ](https://github.com/imostafaaa/LCZ-Milan/assets/47309563/0e9de42f-e83c-41cc-b474-6d12c970c74c)
 
 
-This project is being developed in collaboration between Italian Space Agency (ASI) and Politecnico di Milano, Department of Civil and Environmental Engineering (POLIMI DICA), within the context of the I4DP_SCIENCE program.
+This project is inspired by [LCZ-ODC]([https://github.com](https://github.com/gisgeolab/LCZ-ODC/tree/main)) oriject that was  developed in collaboration between Italian Space Agency (ASI) and Politecnico di Milano, Department of Civil and Environmental Engineering (POLIMI DICA), within the context of the I4DP_SCIENCE program.
